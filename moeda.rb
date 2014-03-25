@@ -1,5 +1,5 @@
 class Moeda
-	def value
-		puts {value}
-	end
+  def value
+    puts {value}
+  end
 end

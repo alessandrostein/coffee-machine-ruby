@@ -1,13 +1,13 @@
 class Produto
-	def preco
+  def preco
 
-	end
+  end
 
-	def nome
+  def nome
 
-	end
+  end
 
-	def receita
+  def receita
 
-	end
+  end
 end

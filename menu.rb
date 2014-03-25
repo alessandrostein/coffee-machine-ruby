@@ -1,20 +1,20 @@
 # Partial Menu
 
-class Menu 
+class Menu
 
-	def Cafe
+  def Cafe
 
-	end
+  end
 
-	def CafeComAcucar
+  def CafeComAcucar
 
-	end
+  end
 
-	def CafeComCreme
+  def CafeComCreme
 
-	end
+  end
 
-	def CafeComCremeAcucar
+  def CafeComCremeAcucar
 
-	end
+  end
 end
